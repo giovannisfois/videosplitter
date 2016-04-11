@@ -1,4 +1,8 @@
-# videosplitter
+# videosplitter-deprecated
+
+Please use the videosplitter-Cplusplus version
+
+
 Extract commercials from tv channels streams
 
 In input you have a registration from a tv stream, in output you get each commercial from the stream encoded as a video file.
